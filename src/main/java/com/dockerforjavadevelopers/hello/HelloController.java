@@ -9,7 +9,7 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Welcome to Atos Managed Openshit (AMOS)\n";
+        return "Welcome to Atos Managed Openshift (AMOS)\n";
     }
     
 }
